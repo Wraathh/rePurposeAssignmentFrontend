@@ -1,4 +1,4 @@
-Vue.js Application
+My Vue.js Application
 This is a Vue.js application for managing posts using GraphQL as the backend API.
 
 Features
